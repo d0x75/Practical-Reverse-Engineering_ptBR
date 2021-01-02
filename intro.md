@@ -79,4 +79,9 @@ deve considerar aprender programação Win32.
 São excelentes referências. Para o Capítulo 4, “Depuração e automação”, considere Por Dentro da Depuração do Windows:
 
 > Um Guia Prático para Estratégias de Depuração e Rastreamento no Windows, por Tarik Soulami (Microsoft Press, 2012)
->> Advanced Windows Debugging, de Mario Hewardt e Daniel Pravat (Addison-Wesley Professional, 2007). 
+>> Advanced Windows Debugging, de Mario Hewardt e Daniel Pravat (Addison-Wesley Professional, 2007).
+
+
+
+[Next](chapter-1/x86-and-64.md)
+--------------------------------
