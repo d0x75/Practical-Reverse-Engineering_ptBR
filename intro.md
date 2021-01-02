@@ -32,8 +32,8 @@ os objetivos deste livro, o "sistema" é um *programa de software*.
 Para entender um software, você deve primeiro aprender como escrevemos um software. Portanto, o primeiro requisito é saber programar com linguagens como C, C ++, Java e outras. Sugerimos primeiro aprender C devido à sua simplicidade, eficácia e onipresença. Algumas referências excelentes a serem consideradas são :
 
 > The C Programming Language, de Brian Kernighan e Dennis Ritchie (Prentice Hall, 1988) 
-> C : A Reference Manual, de Samuel Harbison (Prentice Hall, 2002). 
-> C Programming: Deep C Secrets, de Peter Van Der Linden (Prentice Hall, 1994). 
+>> C : A Reference Manual, de Samuel Harbison (Prentice Hall, 2002). 
+>>> C Programming: Deep C Secrets, de Peter Van Der Linden (Prentice Hall, 1994). 
 
 
 - Depois de ter compreendido os conceitos de alto nível, como variáveis, escopos, funções, ponteiros, condicionais, loops,
@@ -41,7 +41,7 @@ call stacks e libraries. O conhecimento das estruturas de dados, como pilhas, qu
 mas não são inteiramente necessário por agora. Para terminar, você pode folhear os seguintes livro:
 
 > Compilers: Principles, Techniques and Tools, de Alfred Aho, Ravi Sethi  e Jeffrey Ullman(Prentice Hall, 1994)
-> Linkers and Loaders, de John Levine (Morgan Kaufmann, 1999)
+>> Linkers and Loaders, de John Levine (Morgan Kaufmann, 1999)
 
 
 Depois de ter um bom entendimento de como os programas normalmente são escritos, executados e depurados, você deve começar a 
@@ -74,9 +74,9 @@ inspiração adicional (e um excelente explanação de Windows Memory Menager), 
 deve considerar aprender programação Win32. 
 
 > Programação do Sistema Windows, de Johnson Hart (Addison-Wesley Professional,2010)
-> Windows via C / C ++, de Jeffrey Richter e Christophe Nasarre (Microsoft Press, 2007)
+>> Windows via C / C ++, de Jeffrey Richter e Christophe Nasarre (Microsoft Press, 2007)
 
 São excelentes referências. Para o Capítulo 4, “Depuração e automação”, considere Por Dentro da Depuração do Windows:
 
 > Um Guia Prático para Estratégias de Depuração e Rastreamento no Windows, por Tarik Soulami (Microsoft Press, 2012)
-> Advanced Windows Debugging, de Mario Hewardt e Daniel Pravat (Addison-Wesley Professional, 2007). 
+>> Advanced Windows Debugging, de Mario Hewardt e Daniel Pravat (Addison-Wesley Professional, 2007). 
