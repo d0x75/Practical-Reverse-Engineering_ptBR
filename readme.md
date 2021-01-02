@@ -3,8 +3,6 @@ share it with others__*.
 
 
 
-[Introdução](intro.md)
+- [Introdução](intro.md)
 
-<br>
-
-[Chapter 1 - x86 and 64](chapter-1/x86-and-64.md)
+- [Chapter 1 - x86 and 64](chapter-1/x86-and-64.md)
