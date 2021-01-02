@@ -61,13 +61,13 @@ assim por  diante. A melhor maneira de entender esses conceitos é ler Sistemas 
 texto de Tanenbaum seja excelente para conceitos, não discute detalhes técnicos importantes para sistemas operacionais da vida
 real. Para Windows, você deve considerar folhear o livro:
 
-**Windows NT Device Driver Development** por Peter Viscarola e Anthony Mason (Novo Riders Press, 1998).
+>Windows NT Device Driver Development por Peter Viscarola e Anthony Mason (Novo Riders Press, 1998).
 
 Embora seja um livro sobre desenvolvimento de driver, o background de alguns capítulos fornecem uma introdução excelente e
 concreta ao Windows. (Isso é também excelente material suplementar para o capítulo do Windows Kernel neste livro.) Para
 inspiração adicional (e um excelente explanação de Windows Memory Menager), você também deve ler :
 
-**What Makes It? O Windows 7 (x64) Virtual Memory Manager, por Enrico Martignetti**
+>>What Makes It? O Windows 7 (x64) Virtual Memory Manager, por Enrico Martignetti
 
 
 - Neste ponto, você terá todo o conhecimento necessário para ler e entender o Capítulo 3 “O Kernel do Windows”. Você também
