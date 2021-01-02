@@ -31,20 +31,20 @@ os objetivos deste livro, o "sistema" é um *programa de software*.
 
 Para entender um software, você deve primeiro aprender como escrevemos um software. Portanto, o primeiro requisito é saber programar com linguagens como C, C ++, Java e outras. Sugerimos primeiro aprender C devido à sua simplicidade, eficácia e onipresença. Algumas referências excelentes a serem consideradas são :
 
-1. The C Programming Language, de Brian Kernighan e Dennis Ritchie (Prentice Hall, 1988) 
-2. C : A Reference Manual, de Samuel Harbison (Prentice Hall, 2002). 
-3. C Programming: Deep C Secrets, de Peter Van Der Linden (Prentice Hall, 1994). 
+> The C Programming Language, de Brian Kernighan e Dennis Ritchie (Prentice Hall, 1988) 
+> C : A Reference Manual, de Samuel Harbison (Prentice Hall, 2002). 
+> C Programming: Deep C Secrets, de Peter Van Der Linden (Prentice Hall, 1994). 
 
 
 - Depois de ter compreendido os conceitos de alto nível, como variáveis, escopos, funções, ponteiros, condicionais, loops,
 call stacks e libraries. O conhecimento das estruturas de dados, como pilhas, queues , linked lists e threes pode ser útil,
 mas não são inteiramente necessário por agora. Para terminar, você pode folhear os seguintes livro:
 
-1. Compilers: Principles, Techniques and Tools, de Alfred Aho, Ravi Sethi  e Jeffrey Ullman(Prentice Hall, 1994)
-2. Linkers and Loaders, de John Levine (Morgan Kaufmann, 1999)
+> Compilers: Principles, Techniques and Tools, de Alfred Aho, Ravi Sethi  e Jeffrey Ullman(Prentice Hall, 1994)
+> Linkers and Loaders, de John Levine (Morgan Kaufmann, 1999)
 
 
-- Depois de ter um bom entendimento de como os programas normalmente são escritos, executados e depurados, você deve começar a 
+Depois de ter um bom entendimento de como os programas normalmente são escritos, executados e depurados, você deve começar a 
 explorar o ambiente de execução do programa, que inclui o processador e o sistema operacional. Sugerimos aprender primeiro 
 sobre o processador Intel, folheando o Manual do desenvolvedor de software das arquiteturas Intel 64 e IA-32 Volume 1: 
 Arquitetura básica da Intel, com atenção especial aos capítulos 2–7. Esses capítulos explicam os elementos básicos de um 
@@ -55,28 +55,28 @@ ter uma compreensão básica dos blocos de construção técnicos de um sistema 
 conceitual, considere Structured Computer Organization de Andrew Tanenbaum (Prentice Hall, 1998).
 
 
-- Em seguida, você deve explorar o sistema operacional. Existem muitas diferenças entre sistemas operacionais, mas eles
+Em seguida, você deve explorar o sistema operacional. Existem muitas diferenças entre sistemas operacionais, mas eles
 compartilham  muitos conceitos comuns, incluindo Process, Threads, Virtual Memory, Separação de Privilégios, Multithreads e
 assim por  diante. A melhor maneira de entender esses conceitos é ler Sistemas operacionais modernos(by Tenenbaum). Embora o
 texto de Tanenbaum seja excelente para conceitos, não discute detalhes técnicos importantes para sistemas operacionais da vida
 real. Para Windows, você deve considerar folhear o livro:
 
->Windows NT Device Driver Development por Peter Viscarola e Anthony Mason (Novo Riders Press, 1998).
+> Windows NT Device Driver Development por Peter Viscarola e Anthony Mason (Novo Riders Press, 1998).
 
 Embora seja um livro sobre desenvolvimento de driver, o background de alguns capítulos fornecem uma introdução excelente e
 concreta ao Windows. (Isso é também excelente material suplementar para o capítulo do Windows Kernel neste livro.) Para
 inspiração adicional (e um excelente explanação de Windows Memory Menager), você também deve ler :
 
->>What Makes It? O Windows 7 (x64) Virtual Memory Manager, por Enrico Martignetti
+> What Makes It? O Windows 7 (x64) Virtual Memory Manager, por Enrico Martignetti
 
 
 - Neste ponto, você terá todo o conhecimento necessário para ler e entender o Capítulo 3 “O Kernel do Windows”. Você também
 deve considerar aprender programação Win32. 
 
-1. Programação do Sistema Windows, de Johnson Hart (Addison-Wesley Professional,2010)
-2. Windows via C / C ++, de Jeffrey Richter e Christophe Nasarre (Microsoft Press, 2007)
+> Programação do Sistema Windows, de Johnson Hart (Addison-Wesley Professional,2010)
+> Windows via C / C ++, de Jeffrey Richter e Christophe Nasarre (Microsoft Press, 2007)
 
 São excelentes referências. Para o Capítulo 4, “Depuração e automação”, considere Por Dentro da Depuração do Windows:
 
-1. Um Guia Prático para Estratégias de Depuração e Rastreamento no Windows, por Tarik Soulami (Microsoft Press, 2012)
-2. Advanced Windows Debugging, de Mario Hewardt e Daniel Pravat (Addison-Wesley Professional, 2007). 
+> Um Guia Prático para Estratégias de Depuração e Rastreamento no Windows, por Tarik Soulami (Microsoft Press, 2012)
+> Advanced Windows Debugging, de Mario Hewardt e Daniel Pravat (Addison-Wesley Professional, 2007). 
