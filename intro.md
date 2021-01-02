@@ -1,7 +1,7 @@
 ## Instrodução
 
 
-- O processo de aprendizagem da engenharia reversa é semelhante ao de aprendizado de uma língua estrangeira para um adulto. A
+O processo de aprendizagem da engenharia reversa é semelhante ao de aprendizado de uma língua estrangeira para um adulto. A
 primeira fase do aprendizado de uma língua estrangeira começa com uma introdução às letras do alfabeto, que são usadas para
 construir palavras com semântica bem definida. A próxima fase envolve a compreensão das regras gramaticais que definem como as
 palavras são coladas para produzir uma frase adequada. Depois de se acostumar com essas regras, a pessoa aprende a montar
@@ -10,14 +10,14 @@ escritos em estilos diferentes e ainda compreender os pensamentos neles contidos
 referência sobre os aspectos mais esotéricos da linguagem - sintaxe histórica, fonologia e assim por diante.
 
 
-- No caso da engenharia reversa, a "língua" é a arquitetura do processador(assembly). Uma palavra é uma instrução assembly. 
+No caso da engenharia reversa, a "língua" é a arquitetura do processador(assembly). Uma palavra é uma instrução assembly. 
 Os parágrafos são sequências de instruções assembly. Um livro é um programa. No entanto, para compreender totalmente um
 livro, o leitor precisa saber mais do que apenas vocabulário e gramática. Esses elementos adicionais incluem "estrutura e 
 estilo de prosa, vocabulario informal" e outros. Compreender os programas de computador também requer o domínio de 
 conceitos além das instruções assembly.
 
 
-- Pode ser um tanto intimidante começar a aprender um assunto técnico inteiramente novo em um livro. No entanto, estaríamos 
+Pode ser um tanto intimidante começar a aprender um assunto técnico inteiramente novo em um livro. No entanto, estaríamos 
 enganando você se alegássemos que a engenharia reversa é um esforço de aprendizado simples e que pode ser completamente
 dominado pela leitura deste livro. O processo de aprendizagem é bastante complexo porque requer conhecimento de vários 
 domínios diferentes do conhecimento. Por exemplo, um engenheiro reverso eficaz precisa ter conhecimento em arquitetura de 
@@ -25,7 +25,7 @@ computador, programação de sistemas, sistemas operacionais, compiladores e ass
 formação matemática é necessária.
 
 
-- Para fins de discussão, definimos vagamente a engenharia reversa como o processo de entender como um sistema funciona.Esse
+Para fins de discussão, definimos vagamente a engenharia reversa como o processo de entender como um sistema funciona.Esse
 "sistema" pode ser um dispositivo de hardware, um programa de software, um processo físico ou químico e assim por diante.Para
 os objetivos deste livro, o "sistema" é um *programa de software*.
 
@@ -59,11 +59,14 @@ conceitual, considere Structured Computer Organization de Andrew Tanenbaum (Pren
 compartilham  muitos conceitos comuns, incluindo Process, Threads, Virtual Memory, Separação de Privilégios, Multithreads e
 assim por  diante. A melhor maneira de entender esses conceitos é ler Sistemas operacionais modernos(by Tenenbaum). Embora o
 texto de Tanenbaum seja excelente para conceitos, não discute detalhes técnicos importantes para sistemas operacionais da vida
-real. Para Windows, você deve considerar folhear o livro: 
-**Windows NT Device Driver Development** por Peter Viscarola e Anthony Mason (Novo Riders Press, 1998). 
+real. Para Windows, você deve considerar folhear o livro:
+
+**Windows NT Device Driver Development** por Peter Viscarola e Anthony Mason (Novo Riders Press, 1998).
+
 Embora seja um livro sobre desenvolvimento de driver, o background de alguns capítulos fornecem uma introdução excelente e
 concreta ao Windows. (Isso é também excelente material suplementar para o capítulo do Windows Kernel neste livro.) Para
 inspiração adicional (e um excelente explanação de Windows Memory Menager), você também deve ler :
+
 **What Makes It? O Windows 7 (x64) Virtual Memory Manager, por Enrico Martignetti**
 
 
