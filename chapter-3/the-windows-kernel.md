@@ -3,11 +3,11 @@
 
 Este capítulo discute os princípios e técnicas necessárias para analisar o código do driver do modo kernel, como rootkits, na plataforma Windows. Como os drivers interagem com o sistema operacional por meio de interfaces bem definidas, a tarefa analítica pode ser decomposta nos seguintes objetivos gerais:
 
-■ Compreender como os principais componentes do sistema operacional são implementados
-■ Compreender a estrutura de um driver
-■ Compreender as interfaces do driver do usuário e do sistema operacional do driver e como o Windows as implementa
-■ Compreender como certas construções de software de driver se manifestam em forma binária
-■ Aplicar sistematicamente o conhecimento das etapas anteriores no processo geral de engenharia reversa 
+- ■ Compreender como os principais componentes do sistema operacional são implementados
+- ■ Compreender a estrutura de um driver
+- ■ Compreender as interfaces do driver do usuário e do sistema operacional do driver e como o Windows as implementa
+- ■ Compreender como certas construções de software de driver se manifestam em forma binária
+- ■ Aplicar sistematicamente o conhecimento das etapas anteriores no processo geral de engenharia reversa 
 
 
 Se o processo de engenharia reversa dos drivers do Windows pudesse ser modelado como uma tarefa discreta, 90% estariam entendendo como o Windows funciona e 10% estariam entendendo o código assembly. Portanto, o capítulo foi escrito como uma introdução ao kernel do Windows para engenheiros reversos.Ele começa com uma discussão sobre as interfaces do kernel do usuário e sua implementação. A seguir, ele discute listas vinculadas e como elas são usadas no Windows. Em seguida, ele explica conceitos como threads, processos, memória, interrupções e como eles são usados no kernel e drivers. Depois disso, ele vai para a arquitetura de um driver do modo kernel e a interface de programação do driverkernel. Ele conclui aplicando esses conceitos à engenharia reversa de um rootkit.
